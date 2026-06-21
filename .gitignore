@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.log
+*.json
+scan_report_*.txt
+scan_report_*.json
