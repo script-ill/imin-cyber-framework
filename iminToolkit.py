@@ -41,7 +41,8 @@ def banner():
 
 
                   ⚡ IMIN CYBER FRAMEWORK PRO ⚡
-                     Advanced Scanning Engine       Created by: IMIN | Telegram: @script_ill  | VERSION = 1.0.0
+                     Advanced Scanning Engine
+            Created by: IMIN | Telegram: @script_ill  
 
 
 """ + Style.RESET_ALL)
