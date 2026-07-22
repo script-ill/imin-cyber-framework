@@ -1,6 +1,123 @@
+```gitignore
+# ============================================================================
+# IMIN Cyber Framework — .gitignore
+# Author: IMIN | Telegram: @script_ill
+# License: Proprietary — All Rights Reserved
+# ============================================================================
+
+# Python compiled files
 __pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
 *.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.venv*/
+venv*/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Reports and logs
+reports/
+*.html
 *.log
-*.json
-scan_report_*.txt
-scan_report_*.json
+*.txt
+logs/
+
+# Recordings (if any)
+recordings/
+*.wav
+*.mp3
+
+# Environment files
+.env
+.env.local
+.env.*.local
+*.env
+
+# Config files with credentials
+config.json
+config.yaml
+config.yml
+*.secret
+credentials/
+secrets/
+
+# Network capture files
+*.pcap
+*.pcapng
+*.cap
+
+# Test outputs
+test_output/
+test_reports/
+coverage/
+.coverage
+htmlcov/
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Termux specific
+.termux/
+
+# Temp files
+tmp/
+temp/
+*.tmp
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Documentation build
+docs/_build/
+site/
+
+# Distribution
+*.tar.gz
+*.zip
+*.whl
+
+# DO NOT commit the framework itself to public repos
+# This is proprietary software — all rights reserved
+```
