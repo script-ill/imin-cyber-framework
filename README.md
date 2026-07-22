@@ -1,5 +1,5 @@
 ```markdown
-## ⚡ Overview
+### ⚡ Overview
 
 **IMIN Cyber Framework** is a professional-grade, multi-layer penetration testing suite built in pure Python. It combines network scanning, web application security assessment, OSINT username enumeration, vulnerability detection, payload generation, and hash analysis — all in one powerful CLI framework with a cyberpunk neon interface.
 
@@ -23,7 +23,7 @@
 
 - **3 switchable cyberpunk neon banners**
 - **Color-coded severity system** (CRITICAL → HIGH → MEDIUM → LOW → INFO)
-- **Live progress tracking** with thread pools
+- **Live progress tracking** with thread pools**
 - **Professional HTML report generation**
 
 ---
