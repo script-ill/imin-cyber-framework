@@ -1,4 +1,18 @@
-requests
-colorama
-flask
-flask-cors
+```
+# ============================================================================
+# IMIN Cyber Framework v3.0 PRO — Requirements
+# ============================================================================
+# Author: IMIN | Telegram: @script_ill
+# License: Proprietary — All Rights Reserved
+# ============================================================================
+
+# Core dependencies
+requests>=2.28.0
+colorama>=0.4.6
+
+# Optional: Full network scanner functionality
+# nmap — install via system package manager (apt, brew, pkg)
+
+# Optional: Enhanced DNS resolution
+# dnspython>=2.3.0
+```
