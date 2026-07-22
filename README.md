@@ -1,23 +1,4 @@
-```markdown
-<p align="center">
-  <img src="https://img.shields.io/badge/IMIN%20Cyber%20Framework-v3.0%20PRO-neongreen?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Author-IMIN-neonblue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Telegram-%40script__ill-neonpurple?style=for-the-badge&logo=telegram">
-</p>
-
 ```
-╦┌┬┐┬┌┐┌   ╔═╗┬ ┬┌┐ ┌─┐┬─┐   ╔═╗┬─┐┌─┐┌┬┐┌─┐┬ ┬┌─┐┬─┐┬┌─
-║│││││││───║  └┬┘├┴┐├┤ ├┬┘───╠╣ ├┬┘├─┤│││├┤ ││││ │├┬┘├┴┐
-╩┴ ┴┴┘└┘   ╚═╝ ┴ └─┘└─┘┴└─   ╚  ┴└─┴ ┴┴ ┴└─┘└┴┘└─┘┴└─┴ ┴
-```
-
-<p align="center">
-  <b>Multi-Layer Penetration Testing Framework</b><br>
-  <i>AI Recon · Exploit Assist · OSINT Suite · Vulnerability Scanner</i>
-</p>
-
----
-
 ## ⚡ Overview
 
 **IMIN Cyber Framework** is a professional-grade, multi-layer penetration testing suite built in pure Python. It combines network scanning, web application security assessment, OSINT username enumeration, vulnerability detection, payload generation, and hash analysis — all in one powerful CLI framework with a cyberpunk neon interface.
